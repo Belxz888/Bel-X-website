@@ -125,3 +125,17 @@ background:rgba(114, 6, 6, 0.247);
   margin-top: 4%;
   color :aliceblue;
 }
+#fornews{
+  width: 100px;
+  height: 150px;
+  margin-left: 20%;
+  margin-top: 4%;
+  border-radius: 10%;
+  display: flex;
+}
+.politiks{
+  margin-top:10%;
+  color: aliceblue;
+  padding-right: 220%;
+
+}
