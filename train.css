@@ -126,16 +126,25 @@ background:rgba(114, 6, 6, 0.247);
   color :aliceblue;
 }
 #fornews{
-  width: 100px;
-  height: 150px;
-  margin-left: 20%;
-  margin-top: 4%;
-  border-radius: 10%;
-  display: flex;
+  width:35%;
+  height: 250px;
+  margin-left: 5%;
 }
-.politiks{
-  margin-top:10%;
+#fornews h1{
+  font-size: 40px;
   color: aliceblue;
-  padding-right: 220%;
-
+  margin-right: 0%;
+  margin-top: 0%;
+position:relative;
+}
+#fornews img{
+  width: 500px;
+  height: 250px;
+  margin-top: 0%;
+  border-radius: 1%;
+  display: flex;
+  margin-right: 10%;
+  position: relative;
+  border-image: linear-gradient(green, #48D1CC) 1;
+      animation: 1s rotate linear infinite;
 }
